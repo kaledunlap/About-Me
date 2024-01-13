@@ -16,9 +16,8 @@ I thrive on tackling challenging projects and applying my cybersecurity knowledg
 
 Here are some of the semester-long projects I've completed:
 
-1. [Security Scripting Project]([link-to-project-1](https://github.com/kaledunlap/Security-Scripting)): This project was focused on utilizing scripting languages to create scripts that could be used for security assessments, data analysis (data manipulation; textual manipulation), and automating administrative security tasks.
-2. [Firewall & Network Security Routing]([link-to-project-2](https://github.com/kaledunlap/Firewall-and-Network-Security)): Designed, implemented, and monitored a network security plan. Followed by examining security incident postmortem reporting and ongoing network security activities.
-3. [Project Name 3](link-to-project-3): Brief description of the project.
+1. [Security Scripting Project](https://github.com/kaledunlap/Security-Scripting): This project was focused on utilizing scripting languages to create scripts that could be used for security assessments, data analysis (data manipulation; textual manipulation), and automating administrative security tasks.
+2. [Firewall & Network Security Routing](https://github.com/kaledunlap/Firewall-and-Network-Security): Designed, implemented, and monitored a network security plan. Followed by examining security incident postmortem reporting and ongoing network security activities.
 
 Feel free to explore these projects and see the practical application of my cybersecurity skills.
 
