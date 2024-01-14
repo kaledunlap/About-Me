@@ -18,6 +18,8 @@ Here are some of the semester-long projects I've completed:
 
 1. [Security Scripting Project](https://github.com/kaledunlap/Security-Scripting): This project was focused on utilizing scripting languages to create scripts that could be used for security assessments, data analysis (data manipulation; textual manipulation), and automating administrative security tasks.
 2. [Firewall & Network Security Routing](https://github.com/kaledunlap/Firewall-and-Network-Security): Designed, implemented, and monitored a network security plan. Followed by examining security incident postmortem reporting and ongoing network security activities.
+3. [Penetration Testing](https://github.com/kaledunlap/Penetration-Testing): A semester long capstone course which consisted of different forms of penetration testing. A simulated real-life scenario where a company would hire me to breach and perform vulerability tests on their systems.
+4. [Cisco Routing](https://github.com/kaledunlap/Routing): This was an entry-level cisco course which focused on configuring routers and switches for local area networks and wide area networks.
 
 Feel free to explore these projects and see the practical application of my cybersecurity skills.
 
