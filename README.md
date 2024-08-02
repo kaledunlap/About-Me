@@ -1,12 +1,12 @@
 # Kale Dunlap
 
-Hello! I'm Kale, a 22-year-old student pursuing a Bachelor's Degree in Cyber Operations at the University of Arizona. 
+Hello! I'm Kale, a 22-year-old student pursuing a Bachelor's Degree in Cyber Operations Engineering at the University of Arizona. 
 I'm passionate about technology and fascinated by the crucial role that cybersecurity plays in our society.
 
 ## Education
 
-- 🎓 Currently studying for my Bachelor's Degree in Cyber Operations at the University of Arizona.
-- 🎓 Holds an Associate's Degree in Cybersecurity from Texas State Technical College (TSTC), Waco, Texas.
+- 🎓 Currently studying for my Bachelor's Degree in Cyber Operations Engineering at the University of Arizona.
+- 🎓 Holds an Associate's Degree in Cybersecurity from Texas State Technical College (TSTC), Waco, Texas. (3.75 GPA)
 
 ## About Me
 
