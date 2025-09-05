@@ -16,11 +16,11 @@ I thrive on tackling challenging projects and applying my cybersecurity knowledg
 
 Here is some work from school and internship projects which I completed:
 
-1. [NASA Internship Final Project Presentation] (https://github.com/kaledunlap/NASA-Internship.git): I worked for 10 weeks at NASA Ames Research Center mainly focusing on improving the security of Unmanned Aerial Systems (UAS).
-2. [Security Scripting Project](https://github.com/kaledunlap/Security-Scripting): This project was focused on utilizing scripting languages to create scripts that could be used for security assessments, data analysis (data manipulation; textual manipulation), and automating administrative security tasks.
-3. [Firewall & Network Security Routing](https://github.com/kaledunlap/Firewall-and-Network-Security): Designed, implemented, and monitored a network security plan. Followed by examining security incident postmortem reporting and ongoing network security activities.
-4. [Penetration Testing](https://github.com/kaledunlap/Penetration-Testing): A semester long capstone course which consisted of different forms of penetration testing. A simulated real-life scenario where a company would hire me to breach and perform vulerability tests on their systems.
-5. [Cisco Routing](https://github.com/kaledunlap/Routing): This was an entry-level cisco course which focused on configuring routers and switches for local area networks and wide area networks.
+1. [NASA Final Project Presentation](https://github.com/kaledunlap/NASA-Internship.git): I worked for 10 weeks at NASA Ames Research Center focusing on improving the security of Unmanned Aerial Systems (UAS).
+3. [Security Scripting Project](https://github.com/kaledunlap/Security-Scripting): This project was focused on utilizing scripting languages to create scripts that could be used for security assessments, data analysis (data manipulation; textual manipulation), and automating administrative security tasks.
+4. [Firewall & Network Security Routing](https://github.com/kaledunlap/Firewall-and-Network-Security): Designed, implemented, and monitored a network security plan. Followed by examining security incident postmortem reporting and ongoing network security activities.
+5. [Penetration Testing](https://github.com/kaledunlap/Penetration-Testing): A semester long capstone course which consisted of different forms of penetration testing. A simulated real-life scenario where a company would hire me to breach and perform vulerability tests on their systems.
+6. [Cisco Routing](https://github.com/kaledunlap/Routing): This was an entry-level cisco course which focused on configuring routers and switches for local area networks and wide area networks.
 
 Feel free to explore these projects and see the practical application of my cybersecurity skills.
 
